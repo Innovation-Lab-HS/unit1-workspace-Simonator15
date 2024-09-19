@@ -1,5 +1,3 @@
-package main;
-
 public class Something {
   public static void main(String[] args) {
     // Double Forward Slash Means Comment

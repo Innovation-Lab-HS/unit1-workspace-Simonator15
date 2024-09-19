@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TurtleFun",
+            "request": "launch",
+            "mainClass": "TurtleFun",
+            "projectName": "unit1-workspace-Simonator15_c08be356"
+        },
+        {
+            "type": "java",
+            "name": "Sally",
+            "request": "launch",
+            "mainClass": "Sally",
+            "projectName": "unit1-workspace-Simonator15_c08be356"
+        },
+        {
+            "type": "java",
+            "name": "MyProgram",
+            "request": "launch",
+            "mainClass": "MyProgram",
+            "projectName": "unit1-workspace-Simonator15_c08be356"
+        },
+        {
+            "type": "java",
+            "name": "MyProgram",
+            "request": "launch",
+            "mainClass": "java.MyProgram",
+            "projectName": "unit1-workspace-Simonator15_c08be356"
+        },
+        {
+            "type": "java",
             "name": "Something",
             "request": "launch",
             "mainClass": "main.Something",

@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Something",
+            "request": "launch",
+            "mainClass": "main.Something",
+            "projectName": "unit1-workspace-Simonator15_c08be356"
+        },
+        {
+            "type": "java",
             "name": "HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld",
